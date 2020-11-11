@@ -12,6 +12,7 @@ public class Hello {
 	public void test() {
 		System.out.println("添加新的方法");
 		System.out.println("修改了代码");
+		System.out.println("修改了代码11");
 	}
 	
 }
